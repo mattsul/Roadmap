@@ -1,6 +1,7 @@
 # Roadmap
 
 Near term
+
 [X] machinedatahub.ai site live
 [X] rebrand github group/repos to match
 [ ] Netlify Open Source program application submitted
@@ -23,9 +24,11 @@ Near term
 [ ] machinedatahub analytics (page views, dataset download counts)
 
 Longer term
+
 [ ] External user submits a new dataset
 [ ] First pull request merged from non-original team member
 [ ] Academic Paper Published
 
 Maybe
+
 [ ] Auth-Z (Authorization) - allow private datasets
