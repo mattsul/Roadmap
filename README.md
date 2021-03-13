@@ -7,11 +7,11 @@ Near term
 - [ ] [Netlify Open Source plan](https://www.netlify.com/legal/open-source-policy) application submitted
   - [ ] License
   - [ ] Code of Conduct at the top level directory of the project repository or prominently in the documentation (with a link in the navigation, footer, or homepage)
-  - [ ] Must feature a link to Netlify service
+  - [X] Must feature a link to Netlify service
   - [ ] Review that all conditions are met, fill out the form and submit
 - [ ] machine-data-hub CLI does local ETL on at least one of the datasets
 - [ ] Nested dataset schema
-  - [ ] each dataset can contain multiple files
+  - [X] each dataset can contain multiple files
   - [ ] break out per file metrics vs. dataset metrics
 - [ ] Dataset content pre-rendered, only the  
 - [ ] machine-data-hub published to PyPI
